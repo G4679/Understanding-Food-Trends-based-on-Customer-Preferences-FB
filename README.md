@@ -1,4 +1,4 @@
-# Understanding-Food-Trends-based-on-Customer-Preferences-FB
+# Understanding Food Trends Based On Customer Preferences FB
 ## Project Overview
 This project presents an interactive Lifestyle, Nutrition, and Health Risk Analysis using Power BI dashboards to examine how daily calorie intake, dietary preferences, physical activity levels, and existing health conditions affect overall wellness. The dashboards highlight relationships between BMI patterns, cholesterol levels, meal-wise calorie distribution, and diet adherence to identify key lifestyle-related risk factors. By transforming multiple nutritional indicators into interactive visual insights, the project enables a deeper understanding of how dietary behavior and activity habits influence long-term health outcomes.
 ## Project Objective
