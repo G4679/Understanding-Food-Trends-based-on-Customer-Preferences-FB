@@ -38,7 +38,7 @@ Average calorie intake remains relatively consistent across activity levels (~2.
 
 A large proportion of individuals (78.8%) follow diet adherence practices, reflecting growing awareness of structured nutrition in maintaining healthier lifestyle patterns.
 
-<img width="715" height="396" alt="Factors Influencing Daily Calory Intake " src="https://github.com/user-attachments/assets/0b9a1ac1-84ec-418b-adf9-04e5c5f5dbf9" />
+<img width="708" height="400" alt="Factors Influencing Daily Calorie Intake " src="https://github.com/user-attachments/assets/ad3b13f9-b846-4c62-810f-f1d4f28b5348" />
 
 ## 3. Average by breakfast fast suggestion 
 Focus:This dashboard was designed to focus on three major analytical dimensions.Breakfast Nutritional Composition Analysis,Dietary Preference Impact on Nutrient Intake,Activity Level and Meal Calorie Relationship
@@ -53,7 +53,7 @@ Dinner calorie intake gradually decreases with lower activity intensity, from ve
 
 The medium calorie category includes the highest number of individuals (765), suggesting most people fall within moderate daily energy consumption ranges.
 
-<img width="713" height="396" alt="Average By BreakFast Suggestion " src="https://github.com/user-attachments/assets/c0b9f2b3-2537-4b12-8999-90fff2db3908" />
+<img width="714" height="395" alt="Average By BreakFast Suggestion " src="https://github.com/user-attachments/assets/01c9a934-ba4a-4aa0-99b9-5847b17bc447" />
 
 ## 4 . Lifestyle, Nutrition and Health Risk
 Focus: This dashboard was designed to focus on three major analytical dimensions.Lifestyle Impact on BMI and Calorie Intake,Cholesterol and Disease Risk Distribution,Calorie Balance and Health Risk Segmentation
