@@ -8,7 +8,9 @@ Compare dietary preferences (omnivore, vegetarian, vegan, pescatarian) to unders
 Evaluate how meal-wise calorie distribution (breakfast, lunch, dinner) varies across lifestyle and health categories.
 Identify whether individuals consume calories within or above recommended targets to assess potential health risk exposure.
 ## DataSet 
-<a href="https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101">Data Set</a>,<a href="https://www.kaggle.com/datasets/ziya07/diet-recommendations-dataset"></a>,<a href="https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases"></a>
+<a href="https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101">Data Set</a>
+<a href="https://www.kaggle.com/datasets/ziya07/diet-recommendations-dataset">Data Set</a>
+<a href="https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases">Data Set</a>
 ## Dashboard Overview
 ## 1 . Indian Cuisine Analysis 
 Focus : This dashboard was designed to focus on three major analytical dimensions.Regional Cuisine Distribution,Dietary Preference Analysis,Cooking Time Complexity by Course Type
